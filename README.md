@@ -1,5 +1,9 @@
 **Data Link:** https://archive.ics.uci.edu/dataset/235/individual+household+electric+power+consumption
 
+# Proposed Framework:
+![Picture1](https://github.com/user-attachments/assets/91dfa21d-a502-447e-9985-a26103873f59)
+
+
 # Usage:
 
 To run the code and perform power consumption forecasting:
